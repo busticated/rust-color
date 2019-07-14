@@ -1,0 +1,6 @@
+[package]
+name = "rust-color"
+version = "0.1.0"
+authors = ["busticated <itsbusticated@gmail.com>"]
+edition = "2018"
+
